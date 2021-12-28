@@ -1,0 +1,32 @@
+body {
+    background-color: lightsalmon;
+}
+
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px lightslategrey;
+}
+
+.note {
+    color: crimson;
+    font-weight: bold;
+}
+
+.copyright_footer {
+    font-size: 15px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 3;
+}
+
+canvas {
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px coral;
+}
